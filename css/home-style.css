@@ -3,11 +3,13 @@
 	align-items: center;
 }
 
+
 .left,
 .right {
 	flex: 1; /* equal width columns */
 	display: flex;
 	gap: 20px;
+	color: #24BDE0;
 }
 
 .left {
@@ -18,7 +20,14 @@
 	justify-content: flex-start;
 }
 
-h1 {
-	margin: 0 40px; /* space around logo */
-	white-space: nowrap;
+.logo {
+	font-family: 'Mistral', 'Brush Script MT', cursive;
+	margin: 20px;
+	text-size-adjust: 200%;
 }
+
+
+
+
+
+
