@@ -1,0 +1,24 @@
+﻿.nav-inner {
+	display: flex;
+	align-items: center;
+}
+
+.left,
+.right {
+	flex: 1; /* equal width columns */
+	display: flex;
+	gap: 20px;
+}
+
+.left {
+	justify-content: flex-end; /* move links toward logo */
+}
+
+.right {
+	justify-content: flex-start;
+}
+
+h1 {
+	margin: 0 40px; /* space around logo */
+	white-space: nowrap;
+}
