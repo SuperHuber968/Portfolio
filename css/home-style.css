@@ -22,9 +22,13 @@
 
 .logo {
 	font-family: 'Mistral', 'Brush Script MT', cursive;
-	margin: 0px 20px 0px 20px;
+	margin: 0px 10px 0px;
 	font-size: 100px;
 	color: #24BDE0;
+}
+
+h3 {
+	margin: 0px;
 }
 
 
