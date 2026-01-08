@@ -28,9 +28,21 @@
 	color: #24BDE0;
 }
 
+a {
+	text-decoration: none;
+}
 
+about {
 
+}
 
+.text_photo {
+	display: flex;
 
+}
+
+.about_mrq {
+	margin: 100px;
+}
 
 
